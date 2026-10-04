@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hallo, ich bin Aisheh 👋
 
-<!--
-**xiuCactus/xiuCactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ausgebildete Fachinformatikerin für Anwendungsentwicklung
+und lebe im Saarland.
 
-Here are some ideas to get you started:
+Praktische Erfahrung habe ich mit C#, ASP.NET MVC, SQL,
+Umbraco und OutSystems gesammelt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien
+- C# und .NET
+- SQL Server
+- HTML, CSS und JavaScript
+- Umbraco und OutSystems
+- Git und GitHub
+
+## Mein nächstes Projekt
+Ich plane ein Produktions-Dashboard mit C#/.NET und SQL Server.
+Dabei möchte ich von den ersten Diagrammen bis zur Umsetzung
+meinen Entwicklungsprozess dokumentieren.
+
+## About me
+I'm a trained application developer based in Saarland, Germany.
+My experience includes C#, SQL, Umbraco and OutSystems.
+I'm building my portfolio step by step.
